@@ -1,0 +1,15 @@
+ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul li{
+    border: 1px solid rgb(178, 31, 31);
+}
